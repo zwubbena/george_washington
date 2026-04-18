@@ -3,7 +3,7 @@
 Generate a scatterplot PNG and Excel workbook from george_washington_v2_input.xlsx.
 
 The script reads the Data sheet from:
-  /Users/zane/Desktop/george_washington/george_washington_v2/george_washington_v2_input.xlsx
+  george_washington_v2_input.xlsx
 
 Expected Data sheet columns:
 - x

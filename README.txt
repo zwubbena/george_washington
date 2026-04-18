@@ -5,7 +5,7 @@ There are two versioned script folders. Each block below can be copied and paste
 Folder layout:
 
 ```text
-/Users/zane/Desktop/george_washington
+george_washington/
 ├── README.txt
 ├── .gitignore
 ├── .venv/
@@ -26,7 +26,7 @@ Folder layout:
 BLOCK 1: george_washington_v1
 
 Folder:
-/Users/zane/Desktop/george_washington/george_washington_v1
+george_washington_v1/
 
 Script:
 george_washington_v1.py
@@ -42,7 +42,7 @@ george_washington_v1_3d_plot.html
 Copy and paste this block into Terminal:
 
 ```bash
-cd /Users/zane/Desktop/george_washington/george_washington_v1
+cd george_washington/george_washington_v1
 python3 -m venv ../.venv
 source ../.venv/bin/activate
 python3 -m pip install --upgrade pip
@@ -55,7 +55,7 @@ deactivate
 BLOCK 2: george_washington_v2
 
 Folder:
-/Users/zane/Desktop/george_washington/george_washington_v2
+george_washington_v2/
 
 Script:
 george_washington_v2.py
@@ -70,7 +70,7 @@ george_washington_v2_with_data.xlsx
 Copy and paste this block into Terminal:
 
 ```bash
-cd /Users/zane/Desktop/george_washington/george_washington_v2
+cd george_washington/george_washington_v2
 python3 -m venv ../.venv
 source ../.venv/bin/activate
 python3 -m pip install --upgrade pip

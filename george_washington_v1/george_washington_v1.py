@@ -8,16 +8,16 @@ Expected Excel columns:
 - Intensity
 
 Default input:
-  /Users/zane/Desktop/george_washington/george_washington_v1/george_washington_v1_input.xlsx
+  george_washington_v1_input.xlsx
 
 Default output:
-  /Users/zane/Desktop/george_washington/george_washington_v1/george_washington_v1_scatterplot.png
+  george_washington_v1_scatterplot.png
 
 Default Excel output:
-  /Users/zane/Desktop/george_washington/george_washington_v1/george_washington_v1_with_data.xlsx
+  george_washington_v1_with_data.xlsx
 
 Default interactive 3D output:
-  /Users/zane/Desktop/george_washington/george_washington_v1/george_washington_v1_3d_plot.html
+  george_washington_v1_3d_plot.html
 """
 
 from __future__ import annotations
