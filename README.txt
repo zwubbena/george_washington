@@ -51,6 +51,8 @@ python3 george_washington_v1.py
 deactivate
 ```
 
+The `python3 george_washington_v1.py` line does not need a full file path because the `cd` line above already moves Terminal into the `george_washington_v1` folder.
+
 
 BLOCK 2: george_washington_v2
 
@@ -78,6 +80,8 @@ python3 -m pip install pandas matplotlib openpyxl plotly
 python3 george_washington_v2.py
 deactivate
 ```
+
+The `python3 george_washington_v2.py` line does not need a full file path because the `cd` line above already moves Terminal into the `george_washington_v2` folder.
 
 
 OPTIONAL: Open plot windows too
